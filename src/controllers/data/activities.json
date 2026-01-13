@@ -1,0 +1,16 @@
+[
+  {
+    "id": "L1.1",
+    "tipo": "SEQUENCIA",
+    "titulo": "Mover o robô até à bandeira",
+    "descricao": "Introdução à sequência de instruções",
+    "mapa": ["R", ".", ".", ".", "F"]
+  },
+  {
+    "id": "L2.1",
+    "tipo": "CONDICIONAL",
+    "titulo": "Desviar do obstáculo",
+    "descricao": "Utilização de estruturas condicionais",
+    "mapa": ["R", ".", "#", ".", "F"]
+  }
+]
